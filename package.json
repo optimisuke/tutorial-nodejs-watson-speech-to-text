@@ -1,0 +1,25 @@
+{
+  "name": "tutorial-nodejs-watson-speech-to-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optimisuke/tutorial-nodejs-watson-speech-to-text.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/optimisuke/tutorial-nodejs-watson-speech-to-text/issues"
+  },
+  "homepage": "https://github.com/optimisuke/tutorial-nodejs-watson-speech-to-text#readme",
+  "devDependencies": {
+    "@types/node": "^14.18.16",
+    "ibm-watson": "^7.0.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
+}
